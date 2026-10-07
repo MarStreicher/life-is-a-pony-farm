@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farm on Life is a Pony Farm</title>
+    <link>http://localhost:1313/tags/farm/</link>
+    <description>Recent content in Farm on Life is a Pony Farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Life is a Pony Farm</copyright>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/farm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A morning in the pasture</title>
+      <link>http://localhost:1313/posts/a-morning-in-the-pasture/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-morning-in-the-pasture/</guid>
+      <description>The first hour on the farm is mostly quiet work, then the gate opens onto grass.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/a-morning-in-the-pasture/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

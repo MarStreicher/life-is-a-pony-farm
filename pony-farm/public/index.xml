@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A pony, a pasture, and room to breathe. on Life is a Pony Farm</title>
+    <link>http://localhost:57016/</link>
+    <description>Recent content in A pony, a pasture, and room to breathe. on Life is a Pony Farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Life is a Pony Farm</copyright>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57016/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meet the pony</title>
+      <link>http://localhost:57016/posts/meet-the-pony/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57016/posts/meet-the-pony/</guid>
+      <description>One pony, a lot of grass, and a face you will recognize once the real photos are in.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57016/posts/meet-the-pony/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>A morning in the pasture</title>
+      <link>http://localhost:57016/posts/a-morning-in-the-pasture/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57016/posts/a-morning-in-the-pasture/</guid>
+      <description>The first hour on the farm is mostly quiet work, then the gate opens onto grass.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57016/posts/a-morning-in-the-pasture/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>The farm</title>
+      <link>http://localhost:57016/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57016/about/</guid>
+      <description>&lt;p&gt;Life is a Pony Farm is a small place with a simple aim: let more people see the pony who lives here.&lt;/p&gt;&#xA;&lt;p&gt;The pasture is the whole point. There is grass, a fence line, and a routine that repeats until it feels like weather. The pony knows the sound of the gate. Visitors who come quietly get the real version of the farm, which is mostly standing still and watching ears flick at something in the hedge.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Visit</title>
+      <link>http://localhost:57016/visit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57016/visit/</guid>
+      <description>&lt;p&gt;Visits are by arrangement. A pony farm is still a home, and the field is calmer when the day is planned.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Before you come&#xA;    &lt;div id=&#34;before-you-come&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#before-you-come&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Write ahead and say when you would like to stop by. We will tell you whether the gate is open that day.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
