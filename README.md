@@ -8,3 +8,5 @@ This is our pony and we want to increase its visibilty.
 conda env create -f environment.yml
 conda activate env-name
 ```
+
+Hello world! :) 
