@@ -1,0 +1,18 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Life is a Pony Farm"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "A small farm, an open pasture, and a pony worth coming to see."
+  copyright = "Life is a Pony Farm"
+
+[params.author]
+  name = "Life is a Pony Farm"
+  headline = "Pasture, ponies, and open sky"
+  bio = "A small farm with one pony at the center of it."

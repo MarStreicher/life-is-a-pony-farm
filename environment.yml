@@ -1,0 +1,7 @@
+name: pony-farm
+channels:
+  - conda-forge
+dependencies:
+  # Blowfish requires Hugo extended 0.163.0–0.166.0 (see themes/blowfish/config.toml).
+  # conda-forge's hugo package is the extended edition.
+  - hugo=0.166.0

@@ -1,0 +1,29 @@
+[[main]]
+  name = "The farm"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Stories"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Visit"
+  pageRef = "visit"
+  weight = 30
+
+[[footer]]
+  name = "The farm"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "Stories"
+  pageRef = "posts"
+  weight = 20
+
+[[footer]]
+  name = "Visit"
+  pageRef = "visit"
+  weight = 30

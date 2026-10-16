@@ -1,0 +1,4 @@
+[submodule "pony-farm/themes/blowfish"]
+	path = pony-farm/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
