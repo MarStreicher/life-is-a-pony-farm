@@ -1,5 +1,5 @@
 ---
-title: "A pony, a pasture, and room to breathe."
+title: "A pony, a pasture, and room to breathe. Hello again"
 description: "Life is a Pony Farm is a small place with a big field and a pony who likes company."
 heroCaption: "Life is a Pony Farm"
 heroLead: "Come for the grass stains and the quiet. Stay because the pony has already decided you are interesting."
@@ -9,6 +9,8 @@ heroButtons:
   - label: "Plan a visit"
     url: "/visit/"
     style: "outline"
+  - label: "Hello"
+    url: "/hello/"
   - label: "Contact"
     url: "/contact/"
     style: "outline"
