@@ -13,6 +13,11 @@
   pageRef = "visit"
   weight = 30
 
+[[main]]
+  name = "Training"
+  pageRef = "training"
+  weight = 40
+
 [[footer]]
   name = "The farm"
   pageRef = "about"
@@ -27,3 +32,8 @@
   name = "Visit"
   pageRef = "visit"
   weight = 30
+
+[[footer]]
+  name = "Training"
+  pageRef = "training"
+  weight = 40
