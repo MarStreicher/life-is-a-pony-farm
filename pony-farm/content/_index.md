@@ -11,12 +11,15 @@ heroButtons:
     style: "outline"
   - label: "Hello"
     url: "/hello/"
+  - label: "Contact"
+    url: "/contact/"
+    style: "outline"
 heroImage: "images/pasture.jpg"
 ---
 
 {{< feature-grid >}}
 {{< feature icon="heart" title="One pony, properly known" url="/posts/meet-the-pony/" label="Read the introduction" >}}
-This farm is not a riding school or a petting zoo. It is a home pasture, and the pony is the reason the gate exists.
+xxx This farm is not a riding school or a petting zoo. It is a home pasture, and the pony is the reason the gate exists.
 {{< /feature >}}
 {{< feature icon="sun" title="Days move at walking speed" url="/posts/a-morning-in-the-pasture/" label="A morning on the farm" >}}
 Hay, hoof picks, and a long turn-out. The interesting part is how little hurry there is.
